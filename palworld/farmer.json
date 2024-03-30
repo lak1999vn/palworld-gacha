@@ -1,0 +1,92 @@
+{
+    "common": [
+        {
+            "skin": "Lamball",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/1/10/T_SheepBall_icon_normal.png",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Chipiki",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/a5/T_ChickenPal_icon_normal.png?width=325",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Mozzarina",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/e/e7/T_CowPal_icon_normal.png",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Vixy",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/4/47/T_CuteFox_icon_normal.png",
+            "backgroundColor": "#1CF706" 
+        }
+    ],
+    "rare": [
+
+        {
+            "skin": "Beegarde",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Beegarde-1.webp",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Bristla",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/e/ef/T_LittleBriarRose_icon_normal.png",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Flopie",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/4/4a/T_FlowerRabbit_icon_normal.png",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Lifmunk",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/c/c0/T_Carbunclo_icon_normal.png",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Tanzee",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Tanzee-1.webp",
+            "backgroundColor": "#1223F5" 
+        }
+ 
+    ],
+    "epic": [
+        {
+            "skin": "Robinquill",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Robinquill-1.webp",
+            "backgroundColor": "#C512F5" 
+        },
+        {
+            "skin": "Vaelet",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/8/80/T_VioletFairy_icon_normal.png",
+            "backgroundColor": "#C512F5" 
+        },
+        {
+            "skin": "Elizabee",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/d/db/T_QueenBee_icon_normal.png",
+            "backgroundColor": "#C512F5" 
+        }
+       
+    ],
+    "legendary": [
+        {
+            "skin": "Verdash",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Verdash-1.webp",
+            "backgroundColor": "#FFDA33" 
+        },
+        {
+            "skin": "Petallia",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Petallia-1.webp",
+            "backgroundColor": "#FFDA33" 
+        },
+        {
+            "skin": "Lyleen",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Lyleen-2.webp",
+            "backgroundColor": "#FFDA33" 
+        }
+    
+    ],
+    "mythical": [
+        
+    ]
+}

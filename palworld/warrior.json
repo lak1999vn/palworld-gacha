@@ -1,0 +1,232 @@
+{
+    "common": [
+        {
+            "skin": "Cattiva",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/7/79/T_PinkCat_icon_normal.png?width=325",
+            "backgroundColor": "#1CF706"
+        },
+        {
+            "skin": "Nitewing",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/4/44/T_HawkBird_icon_normal.png",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Vanwyrm",
+            "img": "https://palworld.wiki.gg/images/3/34/Vanwyrm_icon.png",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Incineram",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/0/0b/T_Baphomet_icon_normal.png",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Eikthyrdeer",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/1/1b/T_Deer_icon_normal.png",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Chillet",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Chillet_icon.webp",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Loupmoon",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/1/1e/T_Werewolf_icon_normal.png",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Leezpunk Ignis",
+            "img": "https://palworld.wiki.gg/images/7/7e/Leezpunk_Ignis_icon.png",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Jolthog",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/2/23/T_Hedgehog_icon_normal.png?width=325",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Daedream",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/8/81/T_DreamDemon_icon_normal.png",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Hoocrates",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/b/b8/T_WizardOwl_icon_normal.png",
+            "backgroundColor": "#1CF706" 
+        },
+        {
+            "skin": "Tocotoco",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/0/0c/T_ColorfulBird_icon_normal.png",
+            "backgroundColor": "#1CF706" 
+        }
+
+    ],
+    "rare": [
+        {
+            "skin": "Penking",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/6/69/T_CaptainPenguin_icon_normal.png",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Incineram Noct",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/b/be/T_Baphomet_Dark_icon_normal.png",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Ragnahawk",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Ragnahawk-1.webp",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Helzephyr",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Helzephyr-1.webp",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Dinossom",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/a4/T_FlowerDinosaur_icon_normal.png",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Felbat",
+            "img": "https://static0.hardcoregamerimages.com/wordpress/wp-content/uploads/2024/01/palworld-felbat-icon.png",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Katress",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/b/bd/T_CatMage_icon_normal.png",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Pyrin Noct",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Pyrin-Noct.webp",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Univolt",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/ac/T_Kirin_icon_normal.png",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Quivern",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Quivern.webp",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Beakon",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/0/07/T_ThunderBird_icon_normal.png",
+            "backgroundColor": "#1223F5" 
+        },
+        {
+            "skin": "Rayhound",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Rayhound-1.webp",
+            "backgroundColor": "#1223F5" 
+        }
+ 
+    ],
+    "epic": [
+        {
+            "skin": "Grizzbolt",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Grizzbolt-2.webp",
+            "backgroundColor": "#C512F5" 
+        },
+        {
+            "skin": "Blazehowl_Noct",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Blazehowl_Noct.webp",
+            "backgroundColor": "#C512F5" 
+        },
+        {
+            "skin": "Blazamut",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Blazamut-1.webp",
+            "backgroundColor": "#C512F5" 
+        },
+        {
+            "skin": "Suzaku",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/a2/T_Suzaku_icon_normal.png",
+            "backgroundColor": "#C512F5" 
+        },
+        {
+            "skin": "Relaxaurus Lux",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Relaxaurus_Lux.webp",
+            "backgroundColor": "#C512F5" 
+        },
+        {
+            "skin": "Menasting",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/a/aa/T_DarkScorpion_icon_normal.png",
+            "backgroundColor": "#C512F5" 
+        },
+        {
+            "skin": "Relaxaurus",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Relaxaurus-1.webp",
+            "backgroundColor": "#C512F5" 
+        },
+        {
+            "skin": "Warsect",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/5/5f/T_HerculesBeetle_icon_normal.png?width=325",
+            "backgroundColor": "#C512F5" 
+        },
+        {
+            "skin": "Lyleen Noct",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Lyleen_Noct_icon.webp",
+            "backgroundColor": "#C512F5" 
+        },
+        {
+            "skin": "Ice Reptyro",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Reptyro-Cryst.webp",
+            "backgroundColor": "#C512F5" 
+        }
+       
+    ],
+    "legendary": [
+        {
+            "skin": "MewOne",
+            "img": "https://palworld.atlasforge.gg/images/pal/T_DarkMutant_icon_normal.webp",
+            "backgroundColor": "#FFDA33" 
+        },
+        {
+            "skin": "Drogon",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Dragostrophe.webp",
+            "backgroundColor": "#FFDA33" 
+        },
+        {
+            "skin": "Frostallion",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/4/41/Frostallion-1.png",
+            "backgroundColor": "#FFDA33" 
+        },
+        {
+            "skin": "Frostallion Noct",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Frostallion-Noct.webp",
+            "backgroundColor": "#FFDA33" 
+        },
+        {
+            "skin": "Jetragon",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Jetragon.webp",
+            "backgroundColor": "#FFDA33" 
+        },
+        {
+            "skin": "Necromus",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/b/b9/T_BlackCentaur_icon_normal.png",
+            "backgroundColor": "#FFDA33" 
+        },
+        {
+            "skin": "Paladius",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Paladius-1.webp",
+            "backgroundColor": "#FFDA33" 
+        },
+        {
+            "skin": "Shadowbeak",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/f/f5/T_BlackGriffon_icon_normal.png?width=325",
+            "backgroundColor": "#FFDA33" 
+        }
+    
+    ],
+    "mythical": [
+        {
+            "skin": "Fenrir the Wolfnarok (IV 130%)",
+            "img": "bolt.webp",
+            "backgroundColor": "#F71406" 
+        }
+        
+    ]
+}

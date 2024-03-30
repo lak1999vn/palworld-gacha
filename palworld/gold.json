@@ -1,0 +1,41 @@
+{
+    "common": [
+        {
+            "skin": "99 Gold",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Gold_coin_icon.png",
+            "backgroundColor": "#1CF706" 
+        }
+    ],
+    "rare": [
+
+        {
+            "skin": "999 Gold",
+            "img": "https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Money.PNG/Gold_Coins_Pile_PNG_Clipart.png?m=1629808148",
+            "backgroundColor": "#1223F5" 
+        }
+ 
+    ],
+    "epic": [
+        {
+            "skin": "9999 Gold",
+            "img": "https://png.pngtree.com/png-clipart/20230825/original/pngtree-cartoon-treasure-bag-with-gold-coins-picture-image_8458889.png",
+            "backgroundColor": "#C512F5" 
+        }
+       
+    ],
+    "legendary": [
+        {
+            "skin": "99999 Gold",
+            "img": "https://png.pngtree.com/png-clipart/20220125/original/pngtree-golden-bow-gift-box-with-gold-coin-elements-png-image_7220902.png",
+            "backgroundColor": "#FFDA33" 
+        }
+    
+    ],
+    "mythical": [
+        {
+            "skin": "999999 Gold",
+            "img": "https://static.vecteezy.com/system/resources/previews/032/325/476/original/open-treasure-chest-full-of-gold-coins-isolated-on-transparent-background-file-cut-out-ai-generated-png.png",
+            "backgroundColor": "#F71406" 
+        }
+    ]
+}

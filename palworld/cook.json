@@ -1,0 +1,37 @@
+{
+    "common": [
+        {
+            "skin": "Foxparks",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/b/bf/T_Kitsunebi_icon_normal.png?width=325",
+            "backgroundColor": "#1CF706" 
+        }
+    ],
+    "rare": [
+
+        {
+            "skin": "Pyrin",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/7/7c/T_FireKirin_icon_normal.png",
+            "backgroundColor": "#1223F5" 
+        }
+ 
+    ],
+    "epic": [
+        {
+            "skin": "Reptyro",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Reptyro-1.webp",
+            "backgroundColor": "#C512F5" 
+        }
+       
+    ],
+    "legendary": [
+        {
+            "skin": "Jormuntide Ignis",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Jormuntide-Ignis.webp",
+            "backgroundColor": "#FFDA33" 
+        }
+    
+    ],
+    "mythical": [
+        
+    ]
+}

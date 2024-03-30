@@ -1,0 +1,41 @@
+{
+    "common": [
+        {
+            "skin": "99 Exp",
+            "img": "https://cdn0.iconfinder.com/data/icons/magic-isometric/512/sim2855-512.png",
+            "backgroundColor": "#1CF706" 
+        }
+    ],
+    "rare": [
+
+        {
+            "skin": "999 Exp",
+            "img": "https://cdn3d.iconscout.com/3d/premium/thumb/magic-potion-6823656-5602857.png",
+            "backgroundColor": "#1223F5" 
+        }
+ 
+    ],
+    "epic": [
+        {
+            "skin": "9999 Exp",
+            "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39da6277-d7e8-4885-9cd8-12328bbe53a9/dgcci2m-8711847a-6bc0-42f0-b670-95313c358c21.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5ZGE2Mjc3LWQ3ZTgtNDg4NS05Y2Q4LTEyMzI4YmJlNTNhOVwvZGdjY2kybS04NzExODQ3YS02YmMwLTQyZjAtYjY3MC05NTMxM2MzNThjMjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1066I3lBJ3pdjA4dryUfF5lnuHYZXw15wqAtC2ZbjOg",
+            "backgroundColor": "#C512F5" 
+        }
+       
+    ],
+    "legendary": [
+        {
+            "skin": "99999 Exp",
+            "img": "https://icons.iconarchive.com/icons/iconarchive/fairy-tale/512/Hero-Magic-Potion-2-icon.png",
+            "backgroundColor": "#FFDA33" 
+        }
+    
+    ],
+    "mythical": [
+        {
+            "skin": "999999 Exp",
+            "img": "https://png.pngtree.com/png-clipart/20231024/original/pngtree-magic-bottle-png-image_13411950.png",
+            "backgroundColor": "#F71406" 
+        }
+    ]
+}

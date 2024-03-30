@@ -1,0 +1,37 @@
+{
+    "common": [
+        {
+            "skin": "Rushoar",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Rushoar-2.webp",
+            "backgroundColor": "#1CF706" 
+        }
+    ],
+    "rare": [
+
+        {
+            "skin": "Tombat",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/d/d8/T_CatBat_icon_normal.png",
+            "backgroundColor": "#1223F5" 
+        }
+ 
+    ],
+    "epic": [
+        {
+            "skin": "Digtoise",
+            "img": "https://genshinlab.com/wp-content/uploads/2024/01/Digtoise-1.webp",
+            "backgroundColor": "#C512F5" 
+        }
+       
+    ],
+    "legendary": [
+        {
+            "skin": "Astegon",
+            "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/palworld/1/1a/T_BlackMetalDragon_icon_normal.png",
+            "backgroundColor": "#FFDA33" 
+        }
+    
+    ],
+    "mythical": [
+        
+    ]
+}

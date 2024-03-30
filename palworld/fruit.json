@@ -1,0 +1,37 @@
+{
+    "common": [
+        {
+            "skin": "Uncommon skill fruit",
+            "img": "https://palworld.wiki.gg/images/3/39/Dark_Skill_Fruit_icon.png",
+            "backgroundColor": "#1CF706" 
+        }
+    ],
+    "rare": [
+
+        {
+            "skin": "Rare skill fruit",
+            "img": "https://palworld.wiki.gg/images/3/39/Dark_Skill_Fruit_icon.png",
+            "backgroundColor": "#1223F5" 
+        }
+ 
+    ],
+    "epic": [
+        {
+            "skin": "Epic skill fruit",
+            "img": "https://palworld.wiki.gg/images/3/39/Dark_Skill_Fruit_icon.png",
+            "backgroundColor": "#C512F5" 
+        }
+       
+    ],
+    "legendary": [
+        {
+            "skin": "All skill fruit",
+            "img": "https://images-cdn.ubuy.co.in/636cd44567141e00e241dca3-ubuy-online-shopping.jpg",
+            "backgroundColor": "#FFDA33" 
+        }
+    
+    ],
+    "mythical": [
+        
+    ]
+}
